@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OH2bzvrKeCynIEBcDGj9r8i8o2K2VsqNPxxA0tZgq7AsBpMy4IyzILbLtpX1tT1TtCk9f1CK5XC0/wbFTHgZgw==",
+  "dgSpecHash": "OKwmrriTFwdKrmUDYXKptl8ZIi2KTV5l2UZYic8zegMZpwe6zgy0i8jjWkmYzf/h7arI3o5/oaGGAqXATwTowQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Benton\\source\\repos\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Benton\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

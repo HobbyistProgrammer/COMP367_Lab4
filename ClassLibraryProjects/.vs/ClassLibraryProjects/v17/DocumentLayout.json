@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Benton\\source\\repos\\ClassLibraryProjects\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DE829E8-7242-4942-B436-485D0A1849AF}|ShowCase\\ShowCase.csproj|c:\\users\\benton\\source\\repos\\classlibraryprojects\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DE829E8-7242-4942-B436-485D0A1849AF}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{294B14E6-ECED-4E9F-9726-F8ECC6ABFBAC}|StringLibrary\\StringLibrary.csproj|c:\\users\\benton\\source\\repos\\classlibraryprojects\\stringlibrary\\stringlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{294B14E6-ECED-4E9F-9726-F8ECC6ABFBAC}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\stringlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Benton\\source\\repos\\ClassLibraryProjects\\ShowCase\\Program.cs",
+              "RelativeDocumentMoniker": "ShowCase\\Program.cs",
+              "ToolTip": "C:\\Users\\Benton\\source\\repos\\ClassLibraryProjects\\ShowCase\\Program.cs",
+              "RelativeToolTip": "ShowCase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T22:41:17.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StringLibrary.cs",
               "DocumentMoniker": "C:\\Users\\Benton\\source\\repos\\ClassLibraryProjects\\StringLibrary\\StringLibrary.cs",
               "RelativeDocumentMoniker": "StringLibrary\\StringLibrary.cs",
               "ToolTip": "C:\\Users\\Benton\\source\\repos\\ClassLibraryProjects\\StringLibrary\\StringLibrary.cs",
               "RelativeToolTip": "StringLibrary\\StringLibrary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T05:44:24.029Z",
               "EditorCaption": ""

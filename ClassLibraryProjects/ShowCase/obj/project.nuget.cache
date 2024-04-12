@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FCm1gCkDRqenxUCXRkmk7e7MGR/mSIfyCYB57SCLJJ9FKfX2u8TXAuBrVs6FDUaWGhrSJd7uQEc3RKAvMmPQXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benton\\source\\repos\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benton\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
